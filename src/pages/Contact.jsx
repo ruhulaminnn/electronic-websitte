@@ -34,5 +34,13 @@ const Contact = () => {
         </form>
 
         <div className="mt-6 text-gray-400 text-center">
-          <p>📞 Phone: 01XXXXXXXXX</p>
-          <p>📧 Email: info@electrom
+          <p>📞 Phone: 01796454487</p>
+          <p>📧 Email: ruhul.rc@gmail.com</p>
+          <p>📍 Address: Dhaka, Bangladesh</p>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default Contact;
